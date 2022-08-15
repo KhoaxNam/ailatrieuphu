@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "question": "Con cò bé bé/Nó đậu cành tre/Đi không hỏi mẹ/Biết đi đường nào? là câu hát trong bài hát thiếu nhi nào?",
+      "A": "Mẹ yêu không nào",
+      "B": "Chim mẹ và chim con",
+      "C": "Đồng giao con cò",
+      "D": "Cánh chim tuổi thơ",
+      "answer": "A",
+      "one": ["B","D"],
+      "two": [ [84, 16, 0, 0] ],
+      "three": ["A", "A", "C"],
+      "note": "tên bài hát là Mẹ Yêu Không Nào được sáng tác bởi Lê Xuân Thọ và ra mắt vào 14/07/2012"
+    },
+    {
+      "question": "Bảy chú lùn trong truyện cổ tích Nàng Bạch Tuyết và bảy chú lùn làm nghề gì?",
+      "A": "Thợ rèn",
+      "B": "Thợ săn",
+      "C": "Thợ mỏ",
+      "D": "Thợ may",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [4, 8, 88, 0], [0, 12, 88, 0] ],
+      "three": ["B", "C", "C"],
+      "note": "bảy chú lùn làm nghề thợ mỏ, đào được rất nhiều đá quý/kim cương mỗi ngày"
+    },
+    {
+      "question": "Đường nào sau đây chia Trái Đất thành 2 nửa Bắc bán cầu và Nam bán cầu?",
+      "A": "Đường kinh tuyến gốc",
+      "B": "Đường hạ chí tuyến",
+      "C": "Đường đổi ngày",
+      "D": "Đường xích đạo",
+      "answer": "D",
+      "one": ["B","C"],
+      "two": [ [0, 0, 0, 100] ],
+      "three": ["D", "D", "D"],
+      "note": "xích đạo là một đường tròn tưởng tượng được vẽ ra trên bề mặt một hành tinh (hoặc các thiên thể khác) tại khoảng cách nằm giữa hai cực, theo định nghĩa thì vĩ độ của đường xích đạo là 0°"
+    },
+    {
+      "question": "Loài hoa nào sau đây tượng trưng cho tuổi học trò?",
+      "A": "Hoa mai",
+      "B": "Hoa phượng",
+      "C": "Hoa hồng",
+      "D": "Hoa hướng dương",
+      "answer": "B",
+      "one": ["A","D"],
+      "two": [ [0, 100, 0, 0] ],
+      "three": ["B", "B", "B"],
+      "note": "những chiếc giỏ xe chở đầy hoa phượng, em chở mùa hè của tôi đi đâu?"
+    },
+    {
+      "question": "Loài hoa nào sau đây tượng trưng cho tình yêu?",
+      "A": "Hoa mai",
+      "B": "Hoa phượng",
+      "C": "Hoa hồng",
+      "D": "Hoa hướng dương",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [0, 0, 100, 0] ],
+      "three": ["C", "C", "C"],
+      "note": "từ xưa đến nay hoa hồng luôn là loài hoa tượng trưng cho tình yêu"
+    }
+    
+  ]
+}
