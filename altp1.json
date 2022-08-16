@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "question": "Con cò bé bé/Nó đậu cành tre/Đi không hỏi mẹ/Biết đi đường nào? là câu hát trong bài hát thiếu nhi nào?",
+      "question": "\"Con cò bé bé/Nó đậu cành tre/Đi không hỏi mẹ/Biết đi đường nào?\" là câu hát trong bài hát thiếu nhi nào?",
       "A": "Mẹ yêu không nào",
       "B": "Chim mẹ và chim con",
       "C": "Đồng giao con cò",
@@ -13,7 +13,7 @@
       "note": "tên bài hát là Mẹ Yêu Không Nào được sáng tác bởi Lê Xuân Thọ và ra mắt vào 14/07/2012"
     },
     {
-      "question": "Bảy chú lùn trong truyện cổ tích Nàng Bạch Tuyết và bảy chú lùn làm nghề gì?",
+      "question": "Bảy chú lùn trong truyện cổ tích \"Nàng Bạch Tuyết và bảy chú lùn\" làm nghề gì?",
       "A": "Thợ rèn",
       "B": "Thợ săn",
       "C": "Thợ mỏ",
@@ -34,7 +34,7 @@
       "one": ["B","C"],
       "two": [ [0, 0, 0, 100] ],
       "three": ["D", "D", "D"],
-      "note": "xích đạo là một đường tròn tưởng tượng được vẽ ra trên bề mặt một hành tinh (hoặc các thiên thể khác) tại khoảng cách nằm giữa hai cực, theo định nghĩa thì vĩ độ của đường xích đạo là 0°"
+      "note": "xích đạo là một đường tròn tưởng tượng được vẽ ra trên bề mặt một hành tinh tại khoảng cách nằm giữa hai cực, theo định nghĩa thì vĩ độ của đường xích đạo là 0°"
     },
     {
       "question": "Loài hoa nào sau đây tượng trưng cho tuổi học trò?",
