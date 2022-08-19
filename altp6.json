@@ -1,0 +1,54 @@
+{
+  "allquestion": [
+    
+    {
+      "question": "\"Hoài sơn\" là tên gọi trong đông y của loại củ nào sau đây?",
+      "A": "Củ đậu",
+      "B": "Củ dong",
+      "C": "Củ mài",
+      "D": "Củ nghệ",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [4, 27, 61, 8], [0, 16, 84, 0] ],
+      "three": ["C", "B", "B"],
+      "note": "củ mài còn có tên khác: Hoài sơn, Thự dự, Sơn dược, Sơn thự, Chư thư, Ngọc duyên, Nhi thảo, Tu thúy"
+    },
+    {
+      "question": "\"Hải miên\" là tên gọi khác của?",
+      "A": "Bọt biển",
+      "B": "San hô",
+      "C": "Hải quỳ",
+      "D": "Sao biển",
+      "answer": "A",
+      "one": ["C","D"],
+      "two": [ [66, 14, 18, 2] , [87, 13, 0, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "động vật thân lỗ hay bọt biển/hải miên là một ngành động vật đa bào nguyên thuỷ thuộc Ngành Thân lỗ, có cấu trúc tế bào tách biệt và phần lớn là sinh sống ở biển. Cơ thể động vật thân lỗ có hình cốc gồm các tế động vật đa bào sớm nhất, phát triển từ các tập đoàn tế bào."
+    },
+    {
+      "question": "Ankara là thủ đô của nước nào sau đây?",
+      "A": "Israel",
+      "B": "Thổ Nhĩ Kỳ",
+      "C": "Hà Lan",
+      "D": "Bỉ",
+      "answer": "B",
+      "one": ["A","D"],
+      "two": [ [42, 47, 4, 7], [0, 98, 2, 0] ],
+      "three": ["B", "B", "C"],
+      "note": "Ankara trước đây gọi là Ancyra hoặc Angora, thủ đô Thổ Nhĩ Kỳ và là thành phố lớn thứ hai của quốc gia này sau Istanbul. Là thủ đô hành chính từ thập niên 1920, Ankara đã có vai trò là trung tâm hành chính, nơi ở của các chính khách, viên chức hành chính và công chức Thổ Nhĩ Kỳ"
+    },
+    {
+      "question": "Dung dịch trong bật lửa ga là?",
+      "A": "Metan",
+      "B": "Etan",
+      "C": "Propan",
+      "D": "Butan",
+      "answer": "D",
+      "one": ["B","C"],
+      "two": [ [52, 16, 4, 28], [62, 0, 0, 38] ],
+      "three": ["A", "A", "A"],
+      "note": "dung dịch trong bật lửa ga là khí butan hóa lỏng. Butan thường được sử dụng trong bật lửa trên toàn thế giới. Lý do chính là nó không màu, không mùi và rất dễ cháy. Nó cũng là một trong những loại khí hóa lỏng dễ dàng nhất"
+    }
+    
+  ]
+}
