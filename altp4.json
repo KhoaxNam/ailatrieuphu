@@ -33,7 +33,7 @@
       "D": "18",
       "answer": "B",
       "one": ["A","D"],
-      "two": [ [0, 66, 21, 13, [0, 64, 36, 0] ],
+      "two": [ [0, 66, 21, 13], [0, 64, 36, 0] ],
       "three": ["B", "B", "C"],
       "note": "trong bài Chùa Hương, Nguyễn Nhược Pháp tả lại cô gái 15 tuổi theo bố mẹ đi lễ chùa rồi bắt gặp văn nhân"
     }
