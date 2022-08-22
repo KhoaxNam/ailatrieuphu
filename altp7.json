@@ -1,0 +1,54 @@
+{
+  "data": [
+    
+    {
+      "question": "Nhân vật Chị Dậu trong tác phẩm \"Tắt đèn\" của nhà văn Ngô Tất Tố có tên thật là gì?",
+      "A": "Lê Thị Mai",
+      "B": "Lê Thị Xuân",
+      "C": "Lê Thị Lan",
+      "D": "Lê Thị Đào",
+      "answer": "D",
+      "one": ["A","C"],
+      "two": [ [0, 6, 0, 94] ],
+      "three": ["B", "D", "D"],
+      "note": "trước khi lấy chồng chị vốn có tên là Lê Thị Đào, một cô gái đẹp, giỏi giang, tháo vát và (theo nhà văn) sinh ra trong gia đình trung lưu"
+    },
+    {
+      "question": "Loài cây nào trong bộ tam Phúc-Lộc-Thọ là biểu trưng cho Phúc?",
+      "A": "Cây sung",
+      "B": "Cây vạn tuế",
+      "C": "Cây lộc vừng",
+      "D": "Cây trạng nguyên",
+      "answer": "A",
+      "one": ["B","D"],
+      "two": [ [100, 0, 0, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "cây sung biểu trưng cho Phúc, mang nghĩa sung túc/sung sướng. Cây lốc vừng biểu trưng cho Lộc mang tiền bạc, phú quý và cây vạn tuế biểu trưng cho Thọ, mang tuổi thọ"
+    },
+    {
+      "question": "Vị đại tướng nào là tác giả của câu nói: \"Nắm thắt lưng địch mà đánh\"?",
+      "A": "Tô Lâm",
+      "B": "Võ Nguyên Giáp",
+      "C": "Nguyễn Chí Thanh",
+      "D": "Lê Trọng Tấn",
+      "answer": "C",
+      "one": ["B","D"],
+      "two": [ [16, 0, 84, 0] ],
+      "three": ["C", "C", "C"],
+      "note": "cách đánh này được sáng tạo bởi Đại tướng Nguyễn Chí Thanh từ sau Trận Ia Drang tháng 11 năm 1965. Về sau trở thành một trong những chiến thuật phổ biến của quân Giải phóng miền Nam Việt Nam"
+    },
+    {
+      "question": "Ở áp suất thường, nhiệt độ đông đặc của thủy ngân lỏng là bao nhiêu độ bách phân?",
+      "A": "-29°C",
+      "B": "-39°C",
+      "C": "-49°C",
+      "D": "-59°C",
+      "answer": "B",
+      "one": ["A","C"],
+      "two": [ [0, 53, 0, 47] ],
+      "three": ["D", "B", "B"],
+      "note": "-39°C"
+    }
+    
+  ]
+}
