@@ -1,0 +1,18 @@
+{
+  "data": [
+    
+    {
+      "question": "Ai là người phát minh ra thận nhân tạo?",
+      "A": "Willem Johan Kolff",
+      "B": "Simon Fisher",
+      "C": "Leonardo da Vinci",
+      "D": "Benjamin Spock",
+      "answer": "A",
+      "one": ["B","C"],
+      "two": [ [53, 17, 6, 24], [61, 0, 0, 39] ],
+      "three": ["D", "A", "D"],
+      "note": "Willem Johan Kolff"
+    }
+    
+  ]
+}
