@@ -20,7 +20,7 @@
    </tr>
    
    <tr>
-     <th><b>SỐ LƯỢNG</b></th>
+     <th>SỐ LƯỢNG</th>
      <th>5</th>
      <th>5</th>
      <th>4</th>
