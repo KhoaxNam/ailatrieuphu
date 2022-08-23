@@ -33,7 +33,7 @@
       "D": "Lê Trọng Tấn",
       "answer": "C",
       "one": ["B","D"],
-      "two": [ [16, 0, 84, 0] ],
+      "two": [ [2, 24, 67, 7], [16, 0, 84, 0] ],
       "three": ["C", "C", "C"],
       "note": "cách đánh này được sáng tạo bởi Đại tướng Nguyễn Chí Thanh từ sau Trận Ia Drang tháng 11 năm 1965. Về sau trở thành một trong những chiến thuật phổ biến của quân Giải phóng miền Nam Việt Nam"
     },
@@ -45,7 +45,7 @@
       "D": "-59°C",
       "answer": "B",
       "one": ["A","C"],
-      "two": [ [0, 53, 0, 47] ],
+      "two": [ [2, 53, 42, 3], [0, 53, 0, 47] ],
       "three": ["D", "B", "B"],
       "note": "-39°C"
     }
