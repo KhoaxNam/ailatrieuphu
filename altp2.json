@@ -14,6 +14,18 @@
       "note": "bạch đầu quân nghĩa là những người lính đầu trắng"
     },
     {
+      "question": "Sa mạc nào được công nhận là một trong 7 kì quan thiên nhiên của châu Phi?",
+      "A": "Sa mạc Kalahari",
+      "B": "Sa mạc Gobi",
+      "C": "Sa mạc Namib",
+      "D": "Sa mạc Sahara",
+      "answer": "D",
+      "one": ["A","B"],
+      "two": [ [0, 0, 0, 100] ],
+      "three": ["D", "D", "D"],
+      "note": "trong khi nhân loại có 7 kỳ quan thế giới thì châu Phi cũng có 7 địa danh nổi tiếng. Chúng bao gồm sông Nile, núi lửa Kilimanjaro, thung lũng Great Rift, cánh đồng Serengeti, sa mạc Sahara, hồ Victoria và núi Bàn"
+    },
+    {
       "question": "Axit nào được tìm thấy trong dịch vị dạ dày ở người?",
       "A": "Axit sunfuric",
       "B": "Axit axetic",
