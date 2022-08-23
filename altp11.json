@@ -1,0 +1,30 @@
+{
+  "data": [
+    
+    {
+      "question": "Phi hành gia Phạm Tuân đã mang loại thực vật nào để nghiên cứu trên con tàu vũ trụ Phương Đông?",
+      "A": "Bèo tấm",
+      "B": "Bèo tổ ong",
+      "C": "Bèo hoa dâu",
+      "D": "Bèo cái",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [6, 32, 42, 20], [0, 47, 53, 0] ],
+      "three": ["B", "C", "C"],
+      "note": "bèo hoa dâu dễ sinh sôi nảy nở, hút khí cacbonic, sản sinh ra oxy. Trên vũ trụ lại có rất nhiều tia nhiễm xạ có tác động lên con người, lên sinh vật tạo nên sự đột biến sinh học, và mang bèo hoa dâu lên là để phục vụ mục đích nghiên cứu này"
+    },
+    {
+      "question": "Vườn quốc gia Núi Chúa được UNESCO công nhận là khu dự trữ sinh quyển thế giới năm 2021 nằm ở tỉnh nào?",
+      "A": "Ninh Thuận",
+      "B": "Bình Thuận",
+      "C": "Ninh Bình",
+      "D": "Bình Dương",
+      "answer": "A",
+      "one": ["C","D"],
+      "two": [ [98, 2, 0, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "vườn quốc gia Núi Chúa là một vườn quốc gia tại huyện Ninh Hải, tỉnh Ninh Thuận, Việt Nam được thành lập vào năm 2003 theo Quyết định số 134/2003/QĐ-TTg của Thủ tướng Chính phủ Cộng hòa Xã hội Chủ nghĩa Việt Nam ngày 9 tháng 7 năm 2003. Năm 2021, đã được UNESCO công nhận là Khu dự trữ sinh quyển thế giới"
+    }
+    
+  ]
+}
