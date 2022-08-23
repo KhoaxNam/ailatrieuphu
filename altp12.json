@@ -1,0 +1,31 @@
+{
+  "data": [
+    
+
+    {
+      "question": "Tháp Báo Thiên đứng đầu An Nam tứ đại khí được xây dựng dưới triều đại nào?",
+      "A": "Đinh",
+      "B": "Trần",
+      "C": "Lý",
+      "D": "Lê",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [13, 15, 47, 25], [0, 41, 59, 0] ],
+      "three": ["C", "B", "C"],
+      "note": "Tháp Báo Thiên có tên gọi đầy đủ là Đại thắng tư Thiên Bảo Tháp, được xây cất vào năm Đinh Dậu (1057) đời Lý Thánh Tông"
+    },
+    {
+      "question": "Ai được xem là cha đẻ của ngành Y học?",
+      "A": "Pythagoras",
+      "B": "Phidias",
+      "C": "Hippocrates",
+      "D": "Domocritus",
+      "answer": "C",
+      "one": ["A","B"],
+      "two": [ [0, 16, 51, 33], [0, 0, 51, 49] ],
+      "three": ["C", "D", "D"],
+      "note": "Hipocrates là ông tổ của ngành y học phương Tây và là người thầy thuốc vĩ đại nhất lịch sử thời Hy Lạp cổ đại"
+    }
+    
+  ]
+}
