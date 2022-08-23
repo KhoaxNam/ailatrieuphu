@@ -1,0 +1,18 @@
+{
+  "allquestion": [
+    
+    {
+      "question": "Ai là người đại diện chính thức cho nước Việt Nam Dân chủ Cộng hòa kí hiệp định Paris ngày 27/1/1973?",
+      "A": "Nguyễn Duy Chinh",
+      "B": "Nguyễn Thị Bình",
+      "C": "Lê Đức Thọ",
+      "D": "Xuân Thủy",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [27, 22, 31, 20], [0, 44, 56, 0] ],
+      "three": ["C", "C", "B"],
+      "giaithich": "nói về kết quả của Hiệp định Paris năm 1973, phải nói về sự đóng góp hết sức quan trọng của một tài năng ngoại giao, đó là đồng chí Lê Đức Thọ"
+    }
+    
+  ]
+}
