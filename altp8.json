@@ -21,7 +21,7 @@
       "D": "Nghệ An",
       "answer": "A",
       "one": ["C","D"],
-      "two": [ [87, 11, 2, 0] ],
+      "two": [ [82, 11, 5, 2], [87, 13, 0, 0] ],
       "three": ["A", "A", "A"],
       "note": "lễ hội Hoa phượng đỏ là sự kiện chính trị - văn hóa - xã hội được tổ chức thường niên và trở thành Lễ hội truyền thống đặc trưng của Hải Phòng"
     },
