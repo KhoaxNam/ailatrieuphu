@@ -10,7 +10,7 @@
       "D": "Quảng Ngãi",
       "answer": "D",
       "one": ["A","B"],
-      "two": [ [0, 0, 37, 63] ],
+      "two": [ [3, 2, 37, 58], [0, 0, 37, 63] ],
       "three": ["D", "D", "D"],
       "note": "khởi nghĩa Ba Tơ là cuộc nổi dậy giành chính quyền của quân dân châu Ba Tơ thuộc tỉnh Quảng Ngãi, nổ ra ngày 11 tháng 3 năm 1945, sau 2 ngày Nhật đảo chính Pháp ở Việt Nam"
     },
