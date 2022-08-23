@@ -1,4 +1,4 @@
-<table border="1" bgcolor="#00FBFF">
+<table border="1" bgcolor="blue">
 
    <tr>
      <th>CÂU</th>
