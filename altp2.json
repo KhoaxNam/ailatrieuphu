@@ -33,7 +33,7 @@
       "D": "Trường ca",
       "answer": "A",
       "one": ["C","D"],
-      "two": [ [100, 0, 0, 0] ],
+      "two": [ [91, 6, 3, 0], [98, 2, 0, 0] ],
       "three": ["A", "A", "B"],
       "note": "đó là bản nhạc giao hưởng đầu tiên của cố nhạc sĩ Hoàng Việt"
     },
@@ -45,7 +45,7 @@
       "D": "Cho con ăn",
       "answer": "C",
       "one": ["B","D"],
-      "two": [ [33, 2, 65, 0] ],
+      "two": [ [33, 2, 65, 0], [12, 0, 88, 0] ],
       "three": ["A", "A", "B"],
       "note": "theo giáo sư Sara Lewis thuộc Trường đại học Tufts, Boston(Mỹ), những con đom đóm phát sáng lập lòe trong đêm mùa hè có thể chỉ là một kiểu phô trương về hình thức bề ngoài của chúng, giống như chiếc đuôi rực rỡ của các con công đực nhằm thu hút sự chú ý nơi bạn tình"
     }
