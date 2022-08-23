@@ -21,20 +21,20 @@
    
    <tr>
      <th>SỐ LƯỢNG</th>
-     <th>5</th>
-     <th>5</th>
-     <th>4</th>
-     <th>4</th>
-     <th>5</th>
-     <th>4</th>
-     <th>4</th>
-     <th>3</th>
-     <th>2</th>
-     <th>4</th>
-     <th>2</th>
-     <th>2</th>
-     <th>1</th>
-     <th>1</th>
-     <th>1</th>
+     <th>5</th>  <!-- câu 1 -->
+     <th>5</th>  <!-- câu 2 -->
+     <th>4</th>  <!-- câu 3 -->
+     <th>4</th>  <!-- câu 4 -->
+     <th>5</th>  <!-- câu 5 -->
+     <th>4</th>  <!-- câu 6 -->
+     <th>4</th>  <!-- câu 7 -->
+     <th>3</th>  <!-- câu 8 -->
+     <th>2</th>  <!-- câu 9 -->
+     <th>4</th>  <!-- câu 10 -->
+     <th>2</th>  <!-- câu 11 -->
+     <th>2</th>  <!-- câu 12 -->
+     <th>1</th>  <!-- câu 13 -->
+     <th>1</th>  <!-- câu 14 -->
+     <th>1</th>  <!-- câu 15 -->
    </tr>
 </table>
