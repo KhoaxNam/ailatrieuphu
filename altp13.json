@@ -1,0 +1,19 @@
+{
+  "data": [
+    
+
+    {
+      "question": "Đại Thành toán pháp và Lập Thành toán pháp là những cuốn sách ra đời vào triều đại nào?",
+      "A": "Lý",
+      "B": "Trần",
+      "C": "Hậu Lê",
+      "D": "Nguyễn",
+      "answer": "C",
+      "one": ["B","D"],
+      "two": [ [28, 13, 37, 22], [52, 0, 48, 0] ],
+      "three": ["A", "C", "C"],
+      "note": "triều Hậu Lê"
+    }
+    
+  ]
+}
