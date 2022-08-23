@@ -9,7 +9,7 @@
       "D": "Thịt",
       "answer": "B",
       "one": ["A","C"],
-      "two": [ [0, 52, 0, 48] ],
+      "two": [ [2, 57, 25, 16], [0, 52, 0, 48] ],
       "three": ["D", "D", "B"],
       "note": "thính gạo, thường gọi là thính, là một loại gia vị trong ẩm thực Việt Nam"
     },
