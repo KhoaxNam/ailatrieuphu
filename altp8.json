@@ -21,7 +21,7 @@
       "D": "Tím",
       "answer": "C",
       "one": ["B","D"],
-      "two": [ [74, 0, 15, 11] ],
+      "two": [ [74, 0, 15, 11], [74, 0, 26, 0] ],
       "three": ["A", "A", "A"],
       "note": "hộp đen máy bay không có màu đen như tên gọi mà thường mang màu cam, thứ màu sắc dễ bị phát hiện"
     },
