@@ -8,7 +8,7 @@
       "D": "Cánh chim tuổi thơ",
       "answer": "A",
       "one": ["B","D"],
-      "two": [ [84, 16, 0, 0] ],
+      "two": [ [63, 31, 6, 0], [84, 16, 0, 0] ],
       "three": ["A", "A", "C"],
       "note": "tên bài hát là Mẹ Yêu Không Nào được sáng tác bởi Lê Xuân Thọ và ra mắt vào 14/07/2012"
     },
