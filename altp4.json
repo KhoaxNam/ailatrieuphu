@@ -9,7 +9,7 @@
       "D": "Trằn trọc",
       "answer": "D",
       "one": ["A","C"],
-      "two": [ [23, 26, 23, 28], [0, 8, 0, 92] ],
+      "two": [ [26, 23, 0, 51], [0, 8, 0, 92] ],
       "three": ["B", "D", "B"],
       "note": "Một canh, hai canh lại ba canh/Trằn trọc băn khoăn giấc chẳng lành"
     },
@@ -21,7 +21,7 @@
       "D": "axit clohidric",
       "answer": "C",
       "one": ["B","D"],
-      "two": [ [16, 0, 84, 0] ],
+      "two": [ [16, 3, 73, 8], [16, 0, 84, 0] ],
       "three": ["C", "C", "C"],
       "note": "dung dịch HF có khả năng ăn mòn SiO2 (thành phần chính của thủy tinh) nên được dùng để khắc chữ lên thủy tinh"
     },
