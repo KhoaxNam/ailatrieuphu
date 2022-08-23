@@ -14,6 +14,18 @@
       "note": "Một canh, hai canh lại ba canh/Trằn trọc băn khoăn giấc chẳng lành"
     },
     {
+      "question": "Điền từ còn thiếu vào câu ca dao sau: \"Ai lên Biện Thượng, Lam Sơn/Nhớ Lê Thái Tổ chặn đường quân ...\".",
+      "A": "Tống",
+      "B": "Nguyên",
+      "C": "Thanh",
+      "D": "Minh",
+      "answer": "D",
+      "one": ["A","C"],
+      "two": [ [0, 24, 4, 72], [0, 27, 0, 73] ],
+      "three": ["D", "D", "B"],
+      "note": "Lê Thái Tổ tên thật là Lê Lợi, là vị hoàng đế đầu tiên của triều Hậu Lê, người đã thành lập một đội quân người Việt và lãnh đạo đội quân này chiến đấu chống lại sự chiếm đóng của quân đội nhà Minh từ năm 1418 đến lúc đánh đuổi hoàn toàn quân Minh ra khỏi Đại Việt vào năm 1428 sau đó xây dựng và tái thiết lại đất nước"
+    },
+    {
       "question": "Dung dịch axit nào sau đây được dùng để khắc chữ/ vẽ hình lên thủy tinh?",
       "A": "axit sunfuric",
       "B": "axit axetic",
