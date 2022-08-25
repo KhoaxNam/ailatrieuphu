@@ -49,6 +49,30 @@
       "note": "những chiếc giỏ xe chở đầy hoa phượng, em chở mùa hè của tôi đi đâu?"
     },
     {
+      "question": "\"Nhất xương, nhì da, thứ ba đến lửa\" là thành ngữ về kinh nghiệm trong ngành nghề nào sau đây?",
+      "A": "Gốm sứ",
+      "B": "Chạm khắc",
+      "C": "Đan tre",
+      "D": "Dệt",
+      "answer": "A",
+      "one": ["B","D"],
+      "two": [ [81, 0, 19, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "nhất xương, nhì da, thứ ba đến lửa là câu nói nằm lòng của người làm nghề gốm sứ"
+    },
+    {
+      "question": "Điền từ còn thiếu vào câu tục ngữ sau: \"Cần cù bù ...\" :))",
+      "A": "Siêng năng",
+      "B": "Chăm chỉ",
+      "C": "Kiên nhẫn",
+      "D": "Thông minh",
+      "answer": "D",
+      "one": ["B","C"],
+      "two": [ [0, 0, 0, 100] ],
+      "three": ["D", "D", "D"],
+      "note": "chỉ có học thuyết lao động của triết gia Huấn rô sì mới bù siêng năng thôi"
+    },
+    {
       "question": "Loài hoa nào sau đây tượng trưng cho tình yêu?",
       "A": "Hoa mai",
       "B": "Hoa phượng",
