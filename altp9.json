@@ -15,6 +15,18 @@
       "note": "khởi nghĩa Ba Tơ là cuộc nổi dậy giành chính quyền của quân dân châu Ba Tơ thuộc tỉnh Quảng Ngãi, nổ ra ngày 11 tháng 3 năm 1945, sau 2 ngày Nhật đảo chính Pháp ở Việt Nam"
     },
     {
+      "question": "Chữ số La Mã nào sau đây có giá trị lớn nhất?",
+      "A": "D",
+      "B": "M",
+      "C": "C",
+      "D": "L",
+      "answer": "B",
+      "one": ["C","D"],
+      "two": [ [16, 63, 14, 7], [18, 82, 0, 0] ],
+      "three": ["B", "B", "A"],
+      "note": "L=50, C=100, D=500 và M=1000"
+    },
+    {
       "question": "Ở nước ta, vị vua nào là người khởi đầu việc dùng chữ Nôm thay chữ Hán nhằm chấn hưng văn hóa Việt?",
       "A": "Lý Thánh Tông",
       "B": "Hồ Quý Ly",
