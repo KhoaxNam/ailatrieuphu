@@ -14,6 +14,18 @@
       "note": "trước khi lấy chồng chị vốn có tên là Lê Thị Đào, một cô gái đẹp, giỏi giang, tháo vát và (theo nhà văn) sinh ra trong gia đình trung lưu"
     },
     {
+      "question": "\"Thiếu nữ bên hoa sen\", \"Hai thiếu nữ và em bé\", \"Thiếu nữ ngồi bên tranh tam đa\" là những bức tranh nổi tiếng của ai?",
+      "A": "Tô Ngọc Vân",
+      "B": "Nguyễn Tư Nghiêm",
+      "C": "Bùi Xuân Phái",
+      "D": "Nguyễn Sáng",
+      "answer": "A",
+      "one": ["B","D"],
+      "two": [ [75, 9, 13, 3], [84, 0, 16, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "Tô Ngọc Vân(1906 – 1954) là một họa sĩ Việt Nam nổi tiếng, tác giả của một số bức tranh tiêu biểu cho nền mỹ thuật Việt Nam hiện đại và đó là 3 trong số các tác phẩm tiêu biểu của ông"
+    },
+    {
       "question": "Loài cây nào trong bộ tam Phúc-Lộc-Thọ là biểu trưng cho Phúc?",
       "A": "Cây sung",
       "B": "Cây vạn tuế",
