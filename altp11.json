@@ -26,6 +26,18 @@
       "note": "Theo chủ nghĩa Mác – Lê nin thì trong lịch sử loài người có 5 hình thái kinh tế xã hội từ cấp đến cao: hình thái công xã nguyên thủy, hình thái chiếm hữu nô lệ, hình thái phong kiến, hình thái tư bản chủ nghĩa, hình thái cộng sản chủ nghĩa."
     },
     {
+      "question": "Để bảo vệ vỏ tàu biển làm bằng thép người ta thường gắn vào phần vỏ tàu ngâm dưới nước những tấm kim loại nào?",
+      "A": "Đồng (Cu)",
+      "B": "Bạc (Ag)",
+      "C": "Chì (Pb)",
+      "D": "Kẽm (Zn)",
+      "answer": "D",
+      "one": ["B","C"],
+      "two": [ [13, 2, 8, 77], [77, 0, 0, 23] ],
+      "three": ["D", "D", "D"],
+      "note": "Zn có tính khử mạnh hơn Fe nên kẽm sẽ bị nước biển ăn mòn thay cho thép (phương pháp điện hóa)."
+    },
+    {
       "question": "Vườn quốc gia Núi Chúa được UNESCO công nhận là khu dự trữ sinh quyển thế giới năm 2021 nằm ở tỉnh nào?",
       "A": "Ninh Thuận",
       "B": "Bình Thuận",
