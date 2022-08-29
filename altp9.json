@@ -15,6 +15,18 @@
       "note": "khởi nghĩa Ba Tơ là cuộc nổi dậy giành chính quyền của quân dân châu Ba Tơ thuộc tỉnh Quảng Ngãi, nổ ra ngày 11 tháng 3 năm 1945, sau 2 ngày Nhật đảo chính Pháp ở Việt Nam"
     },
     {
+      "question": "Thành nhà Hồ được UNESCO công nhận là di sản văn hoá thế giới ngày 27/6/2011 nằm ở tỉnh nào?",
+      "A": "Ninh Bình",
+      "B": "Thanh Hóa",
+      "C": "Nghệ An",
+      "D": "Hà Tĩnh",
+      "answer": "B",
+      "one": ["A","D"],
+      "two": [ [2, 13, 77, 8], [0, 77, 23, 0] ],
+      "three": ["B", "B", "C"],
+      "note": "Thành nhà Hồ thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hoá, nằm cách trung tâm thành phố 45km, cách Hà Nội 140km"
+    },
+    {
       "question": "Theo Nghị định số 42/NĐ-CP về việc phân loại đô thị, hệ thống đô thị ở nước ta được phân thành mấy loại?",
       "A": "6",
       "B": "4",
