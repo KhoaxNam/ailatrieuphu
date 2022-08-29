@@ -14,6 +14,18 @@
       "note": "bèo hoa dâu dễ sinh sôi nảy nở, hút khí cacbonic, sản sinh ra oxy. Trên vũ trụ lại có rất nhiều tia nhiễm xạ có tác động lên con người, lên sinh vật tạo nên sự đột biến sinh học, và mang bèo hoa dâu lên là để phục vụ mục đích nghiên cứu này"
     },
     {
+      "question": "Theo chủ nghĩa Mác - Lê nin, trong lịch sử loài người có bao nhiêu hình thái kinh tế xã hội?",
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "answer": "B",
+      "one": ["C","D"],
+      "two": [ [10, 80, 7, 3], [10, 90, 0, 0] ],
+      "three": ["B", "B", "A"],
+      "note": "Theo chủ nghĩa Mác – Lê nin thì trong lịch sử loài người có 5 hình thái kinh tế xã hội từ cấp đến cao: hình thái công xã nguyên thủy, hình thái chiếm hữu nô lệ, hình thái phong kiến, hình thái tư bản chủ nghĩa, hình thái cộng sản chủ nghĩa."
+    },
+    {
       "question": "Vườn quốc gia Núi Chúa được UNESCO công nhận là khu dự trữ sinh quyển thế giới năm 2021 nằm ở tỉnh nào?",
       "A": "Ninh Thuận",
       "B": "Bình Thuận",
