@@ -14,6 +14,18 @@
       "note": "củ mài còn có tên khác: Hoài sơn, Thự dự, Sơn dược, Sơn thự, Chư thư, Ngọc duyên, Nhi thảo, Tu thúy"
     },
     {
+      "question": "Cầu thủ Cristiano Ronaldo sinh năm bao nhiêu?",
+      "A": "1985",
+      "B": "1988",
+      "C": "1986",
+      "D": "1984",
+      "answer": "A",
+      "one": ["B","D"],
+      "two": [ [77, 7, 10, 6], [84, 0, 16, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "cầu thủ Cristiano Ronaldo sinh ngày 5 tháng 2 năm 1985"
+    },
+    {
       "question": "Đột biến ở nhiễm sắc thể bao nhiêu gây ra hội chứng Down?",
       "A": "20",
       "B": "21",
