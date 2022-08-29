@@ -14,6 +14,18 @@
       "note": "thính gạo, thường gọi là thính, là một loại gia vị trong ẩm thực Việt Nam"
     },
     {
+      "question": "Cơ quan nào sau đây dự trữ lượng glycogen cao nhất so với tỉ trọng của nó?",
+      "A": "Cơ",
+      "B": "Não",
+      "C": "Gan",
+      "D": "Mô mỡ",
+      "answer": "C",
+      "one": ["A","B"],
+      "two": [ [11, 9, 66, 14], [0, 0, 98, 2] ],
+      "three": ["C", "D", "C"],
+      "note": "Trong gan, glycogen chiếm 5 đến 6% trọng lượng tươi của nó và chỉ glycogen trong gan là nguồn dự trữ năng lượng cho các cơ quan khác"
+    },
+    {
       "question": "Hoa ban là loài hoa đặc trưng của vùng đất nào nước ta?",
       "A": "Tây Bắc Bộ",
       "B": "Bắc Trung Bộ",
