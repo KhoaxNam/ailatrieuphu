@@ -15,6 +15,18 @@
       "note": "khởi nghĩa Ba Tơ là cuộc nổi dậy giành chính quyền của quân dân châu Ba Tơ thuộc tỉnh Quảng Ngãi, nổ ra ngày 11 tháng 3 năm 1945, sau 2 ngày Nhật đảo chính Pháp ở Việt Nam"
     },
     {
+      "question": "Theo Nghị định số 42/NĐ-CP về việc phân loại đô thị, hệ thống đô thị ở nước ta được phân thành mấy loại?",
+      "A": "6",
+      "B": "4",
+      "C": "5",
+      "D": "3",
+      "answer": "A",
+      "one": ["B","D"],
+      "two": [ [76, 9, 11, 4], [89, 0, 11, 0] ],
+      "three": ["A", "A", "A"],
+      "note": "Theo Nghị định số 42/NĐ-CP về việc phân loại đô thị, có 6 loại đô thị là đô thị loại đặc biệt, đô thị loại I, II, III, IV và V"
+    },
+    {
       "question": "Chữ số La Mã nào sau đây có giá trị lớn nhất?",
       "A": "D",
       "B": "M",
