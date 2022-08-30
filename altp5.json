@@ -14,6 +14,18 @@
       "note": "thính gạo, thường gọi là thính, là một loại gia vị trong ẩm thực Việt Nam"
     },
     {
+      "question": "Tờ báo viết bằng chữ Quốc ngữ đầu tiên ở nước ta có tên là gì?",
+      "A": "Nữ giới chung",
+      "B": "Gia Định báo",
+      "C": "Công luận báo",
+      "D": "Lục tỉnh tân văn",
+      "answer": "B",
+      "one": ["A","C"],
+      "two": [ [3, 61, 16, 20], [0, 71, 0, 29] ],
+      "three": ["B", "B", "B"],
+      "note": "Gia Định báo được cho là tờ báo tiếng Việt đầu tiên viết bằng chữ Quốc ngữ (chữ Latinh), được ra mắt vào ngày 15 tháng 4 năm 1865 tại Sài Gòn"
+    },
+    {
       "question": "Cơ quan nào sau đây dự trữ lượng glycogen cao nhất so với tỉ trọng của nó?",
       "A": "Cơ",
       "B": "Não",
