@@ -14,6 +14,18 @@
       "note": "Một canh, hai canh lại ba canh/Trằn trọc băn khoăn giấc chẳng lành"
     },
     {
+      "question": "Nhà thơ Tố Hữu miêu tả vẽ đẹp quốc gia nào qua câu thơ \"Đường bạch dương sương trắng nắng tràn\"?",
+      "A": "Nga",
+      "B": "Ba Lan",
+      "C": "Bungari",
+      "D": "Cuba",
+      "answer": "B",
+      "one": ["C","D"],
+      "two": [ [82, 3, 4, 11], [74, 26, 0, 0] ],
+      "three": ["A", "A", "B"],
+      "note": "Em ơi, Ba Lan mùa tuyết tan/Đường bạch dương sương trắng nắng tràn"
+    },
+    {
       "question": "Điền từ còn thiếu vào câu ca dao sau: \"Ai lên Biện Thượng, Lam Sơn/Nhớ Lê Thái Tổ chặn đường quân ...\".",
       "A": "Tống",
       "B": "Nguyên",
