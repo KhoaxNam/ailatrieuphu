@@ -13,6 +13,18 @@
       "note": "Tháp Báo Thiên có tên gọi đầy đủ là Đại thắng tư Thiên Bảo Tháp, được xây cất vào năm Đinh Dậu (1057) đời Lý Thánh Tông"
     },
     {
+      "question": "Vệ tinh Vinasat-1 của Việt Nam được phóng lên quỹ đạo vào năm nào?",
+      "A": "2008",
+      "B": "2009",
+      "C": "2010",
+      "D": "2011",
+      "answer": "A",
+      "one": ["B","C"],
+      "two": [ [30, 12, 15, 43], [58, 0, 0, 42] ],
+      "three": ["A", "D", "D"],
+      "note": "Vinasat-1 là vệ tinh viễn thông địa tĩnh đầu tiên của Việt Nam được phóng vào vũ trụ lúc 22 giờ 17 phút ngày 18 tháng 4 năm 2008 (giờ UTC)"
+    },
+    {
       "question": "Ai được xem là cha đẻ của ngành Y học?",
       "A": "Pythagoras",
       "B": "Phidias",
