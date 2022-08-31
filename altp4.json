@@ -14,6 +14,18 @@
       "note": "Một canh, hai canh lại ba canh/Trằn trọc băn khoăn giấc chẳng lành"
     },
     {
+      "question": "Cuốn sách nào sau đây do Khổng Tử và các học trò của ông biên soạn?",
+      "A": "Luận Ngữ",
+      "B": "Tam Tự Kinh",
+      "C": "Trung Dung",
+      "D": "Ngũ Kinh",
+      "answer": "A",
+      "one": ["B","C"],
+      "two": [ [76, 2, 5, 17], [76, 0, 0, 24] ],
+      "three": ["D", "A", "A"],
+      "note": "Luận Ngữ là một cuốn trong bốn cuốn sách gọi là Tứ Thư. Luận Ngữ được viết từ đời Tiền Hán tới đời Hậu Hán bởi Khổng Tử và các học trò của ông"
+    },
+    {
       "question": "Nhà thơ Tố Hữu miêu tả vẽ đẹp quốc gia nào qua câu thơ \"Đường bạch dương sương trắng nắng tràn\"?",
       "A": "Nga",
       "B": "Ba Lan",
