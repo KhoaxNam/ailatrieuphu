@@ -14,6 +14,18 @@
       "note": "biện pháp tu từ lộng ngữ còn gọi là chơi chữ"
     },
     {
+      "question": "Tia nào có bước sóng ngắn nhất?",
+      "A": "Alpha",
+      "B": "Beta",
+      "C": "Gamma",
+      "D": "Rơn-ghen",
+      "answer": "C",
+      "one": ["A","B"],
+      "two": [ [2, 5, 76, 17], [0, 0, 76, 24] ],
+      "three": ["C", "D", "C"],
+      "note": "Tia gamma có bước sóng thấp nhất (<10−12 m) trong số các sóng điện từ vì vậy nó mang nhiều năng lượng nhất so với sóng radio, vi sóng, ánh sáng, tia hồng ngoại, tia cực tím, tia X"
+    },
+    {
       "question": "Ca khúc nào đạt giải thưởng \"Bài hát của năm\" trong chương trình Bài hát Việt 2010?",
       "A": "Việt Nam",
       "B": "Chênh vênh",
