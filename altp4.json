@@ -14,6 +14,18 @@
       "note": "Một canh, hai canh lại ba canh/Trằn trọc băn khoăn giấc chẳng lành"
     },
     {
+      "question": "Quốc kì nước Ý gồm có 3 màu nào?",
+      "A": "Đen, đỏ, vàng",
+      "B": "Đỏ, trắng, xanh lam",
+      "C": "Đỏ, trắng, xanh lá",
+      "D": "Da cam, vàng, đỏ",
+      "answer": "C",
+      "one": ["A","D"],
+      "two": [ [2, 17, 76, 5], [0, 24, 76, 0] ],
+      "three": ["C", "D", "C"],
+      "note": "Quốc kỳ nước Ý gồm có ba dải màu nằm dọc gồm xanh lục, trắng và đỏ. Trong đó màu xanh lá cây được quy định là màu nằm cạnh cột cờ khi treo"
+    },
+    {
       "question": "Cuốn sách nào sau đây do Khổng Tử và các học trò của ông biên soạn?",
       "A": "Luận Ngữ",
       "B": "Tam Tự Kinh",
