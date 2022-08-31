@@ -13,6 +13,18 @@
       "two": [ [28, 13, 37, 22], [52, 0, 48, 0] ],
       "three": ["A", "C", "C"],
       "note": "triều Hậu Lê"
+    },
+    {
+      "question": "Đâu không phải là tên một bất đẳng thức?",
+      "A": "Bernoulli",
+      "B": "Dirichlet",
+      "C": "Bunhiacopxki",
+      "D": "Chebyshev",
+      "answer": "B",
+      "one": ["A","C"],
+      "two": [ [21, 29, 25, 25], [0, 52, 0, 48] ],
+      "three": ["B", "B", "D"],
+      "note": "Dirichlet là nhà toán học người Đức với các đóng góp lớn cho đại số, số học và giải tích trong đó có nguyên lý ngăn kéo Dirichlet nổi tiếng, tuy nhiên đéo có bất đẳng thức nào mang tên ông"
     }
     
   ]
