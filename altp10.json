@@ -14,6 +14,18 @@
       "note": "vào năm 1885, sau vài tháng làm việc và chuẩn bị một cách tỉ mỉ, Vincent van Gogh đã hoàn tất Những người ăn khoai tây, một bức chân dung về một gia đình nông dân sinh động với tông màu tối đang quây quần bên bàn trong mái nhà lụp xụp, chia sẻ bữa ăn tối dưới ngọn đèn dầu, với đồng hồ ở góc trên tường chỉ số 7"
     },
     {
+      "question": "Vua Bảo Đại có tên thật là gì?",
+      "A": "Nguyễn Phúc Bảo Long",
+      "B": "Nguyễn Phúc Vĩnh Thụy",
+      "C": "Nguyễn Phúc Bảo Thắng",
+      "D": "Nguyễn Phúc Nguyên Chương",
+      "answer": "B",
+      "one": ["C","D"],
+      "two": [ [3, 68, 17, 12], [48, 52, 0, 0] ],
+      "three": ["B", "B", "B"],
+      "note": "Vua Bảo Đại tên thật là Nguyễn Phúc Vĩnh Thụy, là hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn cũng là vị hoàng đế cuối cùng của chế độ quân chủ trong lịch sử Việt Nam"
+    },
+    {
       "question": "Bộ tiểu thuyết Sông Đông êm đềm của tác giả người Nga Sholokhov được hoàn thành trong bao nhiêu năm?",
       "A": "15 năm",
       "B": "5 năm",
