@@ -15,6 +15,18 @@
       "note": "khởi nghĩa Ba Tơ là cuộc nổi dậy giành chính quyền của quân dân châu Ba Tơ thuộc tỉnh Quảng Ngãi, nổ ra ngày 11 tháng 3 năm 1945, sau 2 ngày Nhật đảo chính Pháp ở Việt Nam"
     },
     {
+      "question": "Ai là vị vua lên ngôi từ khi 1 tuổi?",
+      "A": "Lê Nhân Tông",
+      "B": "Lý Anh Tông",
+      "C": "Lý Thái Tông",
+      "D": "Lê Thái Tông",
+      "answer": "A",
+      "one": ["C","D"],
+      "two": [ [85, 5, 7, 3], [89, 11, 0, 0] ],
+      "three": ["A", "A", "B"],
+      "note": "Lê Bang Cơ là con thứ ba của Lê Thái Tông, được Thái Tông lập làm thái tử chỉ 6 tháng sau khi sinh ra. Năm 1442, Lê Thái Tông đi tuần miền Đông, đột ngột qua đời. Các tể tướng theo di mệnh của Thái Tông lập Lê Nhân Tông Lê Bang Cơ lên ngôi Hoàng đế, lúc ấy mới 1 tuổi nên mẹ là Tuyên Từ Hoàng thái hậu buông rèm nhiếp chính"
+    },
+    {
       "question": "Thành nhà Hồ được UNESCO công nhận là di sản văn hoá thế giới ngày 27/6/2011 nằm ở tỉnh nào?",
       "A": "Ninh Bình",
       "B": "Thanh Hóa",
