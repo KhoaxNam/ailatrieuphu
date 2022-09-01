@@ -26,6 +26,18 @@
       "note": "Vua Bảo Đại tên thật là Nguyễn Phúc Vĩnh Thụy, là hoàng đế thứ 13 và là vị vua cuối cùng của triều đại nhà Nguyễn cũng là vị hoàng đế cuối cùng của chế độ quân chủ trong lịch sử Việt Nam"
     },
     {
+      "question": "Con sông nào ở miền Bắc nước ta chảy ngược theo hướng Đông Nam - Tây Bắc?",
+      "A": "Sông Thương",
+      "B": "Sông Lô",
+      "C": "Sông Bằng",
+      "D": "Sông Kỳ Cùng",
+      "answer": "D",
+      "one": ["B","C"],
+      "two": [ [51, 13, 10, 26], [13, 0, 0, 87] ],
+      "three": ["A", "D", "A"],
+      "note": "Bắt nguồn từ vùng núi Bắc Xa cao 1.166 m thuộc huyện Đình Lập, ông Kỳ Cùng chảy theo hướng ĐN-TB qua TP.Lạng Sơn. Khi cách thành phố này khoảng 22 km, sông đổi hướng N-B tới thị trấn Văn Lãng rồi lại đổi hướng thành ĐN-TB trước khi rẽ sang hướng Đông ở gần thị trấn Thất Khê"
+    },
+    {
       "question": "Bộ tiểu thuyết Sông Đông êm đềm của tác giả người Nga Sholokhov được hoàn thành trong bao nhiêu năm?",
       "A": "15 năm",
       "B": "5 năm",
