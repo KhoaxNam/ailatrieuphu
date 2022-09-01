@@ -50,6 +50,18 @@
       "note": "hộp đen máy bay không có màu đen như tên gọi mà thường mang màu cam, thứ màu sắc dễ bị phát hiện"
     },
     {
+      "question": "Trong Hệ Mặt Trời, hành tinh nào mặt trời mọc ở hướng Tây, lặn ở hướng Đông?",
+      "A": "Sao Mộc",
+      "B": "Sao Kim",
+      "C": "Sao Thổ",
+      "D": "Sao Hỏa",
+      "answer": "B",
+      "one": ["C","D"],
+      "two": [ [5, 85, 7, 3], [11, 89, 0, 0] ],
+      "three": ["A", "B", "B"],
+      "note": "Sao Kim là hành tinh duy nhất trong Hệ Mặt trời quay ngược lại so với chiều kim đồng hồ. Sao Kim quay từ Đông sang Tây, trong khi tất cả các hành tinh khác đều quay theo hướng ngược lại"
+    },
+    {
       "question": "Lễ hội Hoa Phượng Đỏ được tổ chức thường niên ở thành phố nào nước ta?",
       "A": "Hải Phòng",
       "B": "Hà Nội",
